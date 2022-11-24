@@ -1,0 +1,10 @@
+api process:
+
+https://www.electronjs.org/docs/latest/api/process
+
+url:
+
+https://nodejs.org/api/url.html
+
+all :
+https://www.electronjs.org/docs/latest/tutorial/tutorial-preload
